@@ -29,7 +29,7 @@ export default function Web() {
               MAARS Enterprise 
             </h1>
             <p className="mb-6 max-w-2xl font-light text-gray-500 dark:text-gray-400 md:text-lg lg:mb-8 lg:text-xl">
-              Man kind always desire to conqure the unlimitless even if only dreams !
+            Empowering humanity to reach beyond limits, turning dreams into boundless possibilities.
             </p>
             <Button href="https://github.com/Blazity/next-enterprise" className="mr-3">
               Get started

@@ -45,7 +45,7 @@ export default function Web() {
           </div>
         </div>
       </section>
-      <section className="bg-white dark:bg-gray-900">
+      /*<section className="bg-white dark:bg-gray-900">
         <div className="mx-auto max-w-screen-xl px-4 py-8 sm:py-16 lg:px-6">
           <div className="justify-center space-y-8 md:grid md:grid-cols-2 md:gap-12 md:space-y-0 lg:grid-cols-3">
             {LP_GRID_ITEMS.map((singleItem) => (
@@ -59,7 +59,7 @@ export default function Web() {
             ))}
           </div>
         </div>
-      </section>
+      </section>*/
     </>
   )
 }

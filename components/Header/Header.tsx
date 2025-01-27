@@ -1,9 +1,9 @@
-import Link from '../Link/Link'
-import Logo from '@/assets/logo1.svg'
-import ThemeSwitch from '../ThemeSwitch/ThemeSwitch'
-import siteMetadata from '@/assets/siteMetadata'
 import headerNavLinks from '@/assets/headerNavLinks'
+import Logo from '@/assets/logo1.svg'
+import siteMetadata from '@/assets/siteMetadata'
+import Link from '../Link/Link'
 import MobileNav from '../MobileNav/MobileNav'
+import ThemeSwitch from '../ThemeSwitch/ThemeSwitch'
 
 const Header = () => {
     let headerClass = 'flex items-center w-full bg-white dark:bg-gray-950 justify-between py-10'

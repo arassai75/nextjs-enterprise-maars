@@ -3,8 +3,8 @@
 import { Dialog, Transition } from '@headlessui/react'
 import { clearAllBodyScrollLocks, disableBodyScroll, enableBodyScroll } from 'body-scroll-lock'
 import { Fragment, useEffect, useRef, useState } from 'react'
-import Link from '../Link/Link'
 import headerNavLinks from '@/assets/headerNavLinks'
+import Link from '../Link/Link'
 
 const MobileNav = () => {
   const [navShow, setNavShow] = useState(false)

@@ -2027,10 +2027,10 @@
     pump "^3.0.0"
     tar-fs "^2.1.1"
 
-"@next/bundle-analyzer@^14.2.3":
-  version "14.2.3"
-  resolved "https://registry.npmjs.org/@next/bundle-analyzer/-/bundle-analyzer-14.2.3.tgz"
-  integrity sha512-Z88hbbngMs7njZKI8kTJIlpdLKYfMSLwnsqYe54AP4aLmgL70/Ynx/J201DQ+q2Lr6FxFw1uCeLGImDrHOl2ZA==
+"@next/bundle-analyzer@^14.2.23":
+  version "14.2.23"
+  resolved "https://registry.npmjs.org/@next/bundle-analyzer/-/bundle-analyzer-14.2.23.tgz"
+  integrity sha512-BZJTrSZY1kemDMl8hOEu5Vj7Oy5rCa5ZPJ/bSAFPoaOQS21YVwX4xbZCEteCKu6FiXnTwnprxbGgEOmyhH0aoA==
   dependencies:
     webpack-bundle-analyzer "4.10.1"
 

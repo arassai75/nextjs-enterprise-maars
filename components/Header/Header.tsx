@@ -2,7 +2,6 @@ import headerNavLinks from '@/assets/headerNavLinks'
 import Logo from '@/assets/logo1.svg'
 import siteMetadata from '@/assets/siteMetadata'
 import Link from '../Link/Link'
-import MobileNav from '../MobileNav/MobileNav'
 import ThemeSwitch from '../ThemeSwitch/ThemeSwitch'
 
 const Header = () => {
@@ -34,7 +33,6 @@ const Header = () => {
             ))}
         </div>
         <ThemeSwitch />
-        <MobileNav />
       </div>
     </header>
     )

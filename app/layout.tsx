@@ -1,10 +1,10 @@
 import "styles/tailwind.css"
-import Header from '@/components/Header/Header'
-import Footer from '@/components/Footer/Footer'
 import { Metadata } from 'next'
-import SectionContainer from '../components/SectionContainer/SectionContainer'
 import { Space_Grotesk } from 'next/font/google'
 import siteMetadata from '@/assets/siteMetadata'
+import Footer from '@/components/Footer/Footer'
+import Header from '@/components/Header/Header'
+import SectionContainer from '../components/SectionContainer/SectionContainer'
 import { ThemeProviders } from '../components/theme-providers/theme-providers'
 
 const space_grotesk = Space_Grotesk({
